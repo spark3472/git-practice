@@ -14,8 +14,7 @@ Git stores changes to the repository by first having the file in the folder, the
 3b. How can local and remote repositories be synced?
 Local and remote repositories can be synced by using git push (local to remote) git pull (remote to local) and git checkout to decide which version has precedence.
 
-3c. Consider the following, where the output of git status says:
-What does this message mean: "Your branch is ahead of 'origin/master' by 1 commit."?
+3c. What does this message mean: "Your branch is ahead of 'origin/master' by 1 commit."?
 
 3d. Why does Git report: "nothing to commit, working tree clean"?
 
